@@ -3,9 +3,9 @@
 This project looks to create a classifier using supervised machine learning, to discern
 between diﬀerent taxonomic groups based on a common/conserved marker code. The marker
 code in ques5on is the Cytochrome B (CytB) gene, which is widely used as a marker gene for
-vertebrates due to it being highly conserved (Parson et al., 2000). In general, this mitochondrial
+vertebrates due to it being highly conserved. In general, this mitochondrial
 gene produces a protein that plays a role in energy metabolism and works in tandem with the
-electron transport chain (Pal et al., 2019). While the gene is typically found in a similar form
+electron transport chain. While the gene is typically found in a similar form
 across diﬀerent taxa, varia5ons in its nucleo5de composi5on are s5ll expected. Therefore,
 developing a classifier can be par5cularly valuable, especially when dealing with well-conserved
 genes. This project focuses on building a classifier to discern between the CytB gene of
